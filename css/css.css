@@ -1,0 +1,163 @@
+body {
+    font-family:'Sue Ellen Francisco', cursive; 
+    background: #7FC6BC;
+    font-size: 18px;
+}
+
+#page {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 1000px;
+}
+.clear {
+    clear: both;
+}
+
+#titrepageillu {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 60px;
+    left: 430px;
+    width: 400px;
+    height: 200px;
+    
+}
+
+#photosite {
+    position: absolute;
+    top: 0px;
+    left: -300px;
+    width: 400px;
+    height: 200px;
+    
+    
+}
+
+#presentation {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 200px;
+    left: 430px;
+    width: 400px;
+    height: 200px;
+    
+    
+}
+
+#nom {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    width: 400px;
+    height: 200px;
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
+#menu {
+
+    width: 900px;
+    height: 0px;
+    font-family: 'Sue Ellen Francisco', cursive;
+}
+
+#musique{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 200px;
+}
+#imagecouteau {
+    position:absolute;
+    top: 200px;
+    left: 370px;
+    width: 200px;
+    height: 200px;
+}
+#cledesol {
+    position:absolute;
+    top: 0px;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+}
+#textepresentation {
+position:absolute;
+    top:200px;
+    left:400px;
+    width: 200px;
+    height: 200px;
+}
+
+#illustration {
+    position:absolute;
+    font-size:'Sue Ellen Francisco', cursive;
+    top:200px;
+    left:400px;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+
+
+#galery {
+    margin-top: 100px;
+}
+
+#galery div{
+    display: inline-block;
+    float:left;
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    margin-right: 4px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+#galery span img{
+    height: 300px;
+}
+header {
+
+    height: 86px;
+    width: 100%;
+
+    z-index: 200;
+}
+
+header nav {
+    float: right;
+    padding-top: 15px;
+    margin-right: 85px;
+}
+header nav li {
+    float: left;
+    margin-left: 60px;
+    display: block;
+}
+
+header nav a {
+    color: #000;
+}
+
+
+img {
+    height: 300px;
+}
+
